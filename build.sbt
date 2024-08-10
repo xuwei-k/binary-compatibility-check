@@ -1,4 +1,4 @@
-libraryDependencies += "com.github.xuwei-k" %% "mima" % "0.4.1"
+libraryDependencies += "com.github.xuwei-k" %% "mima" % "0.4.2"
 
 scalaVersion := "2.13.14"
 
