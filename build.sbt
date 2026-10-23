@@ -1,5 +1,5 @@
 libraryDependencies += "com.github.xuwei-k" %% "mima" % "0.4.2"
-libraryDependencies += "org.scala-sbt" % "launcher-interface" % "1.7.0"
+libraryDependencies += "org.scala-sbt" % "launcher-interface" % "1.7.1"
 
 scalaVersion := "2.13.18"
 
